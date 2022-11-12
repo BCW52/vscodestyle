@@ -1,9 +1,0 @@
-{
-	"messages": [
-		"Repository index not available. [Retry with indexing disabled]({0})."
-	],
-	"keys": [
-		"indexNotAvailable"
-	],
-	"filePath": "extensions/github/src/search/index"
-}

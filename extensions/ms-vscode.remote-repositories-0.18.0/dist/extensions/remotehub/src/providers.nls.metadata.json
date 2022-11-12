@@ -1,9 +1,0 @@
-{
-	"messages": [
-		"Choose a recent repository"
-	],
-	"keys": [
-		"pick"
-	],
-	"filePath": "extensions/remotehub/src/providers"
-}
